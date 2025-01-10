@@ -16,4 +16,4 @@ Cybersecurity reporting and communication
 Analytical thinking and incident documentation
 
 
-[certificate.pdf](https://github.com/user-attachments/files/18369863/certificate.pdf)
+![image](https://github.com/user-attachments/assets/dee47019-bb96-4ddb-bf0c-4160981cdab6)
